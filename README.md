@@ -1,9 +1,4 @@
-# Day #43
-
-### Parallex Slider With Flickity
-In this tutorial ([Open in Youtube](https://youtu.be/8WUajxQa-bw)), I am gonna showing to you how to use flickity library in javascript to create a Parallex Slider. Also this slider is full responsive and you can use it as carousel in your website designs❗️
-
 # Screenshot
 Here we have project screenshot :
 
-![screenshot](screenshot.jpg)
+![slider](https://github.com/akiferenw/slider/assets/120742728/61b93e45-c7ac-40c5-80dd-c32c21d145a1)
